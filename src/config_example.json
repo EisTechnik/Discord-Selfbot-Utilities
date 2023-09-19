@@ -1,0 +1,19 @@
+{
+  "debug": true,
+  "save_images": {
+    "run": false,
+    "unique_only": false,
+    "guild_ids": [123456789012345678],
+    "channel_ids": [123456789012345678],
+    "author_ids": [123456789012345678]
+  },
+  "save_emojis": {
+    "run": true,
+    "guild_ids": [123456789012345678]
+  },
+  "save_messages_twitch_relay": {
+    "run": true,
+    "guild_ids": [123456789012345678],
+    "channel_ids": [123456789012345678]
+  }
+}
